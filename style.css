@@ -1,0 +1,20 @@
+/* CSS Document */
+
+body{
+	font-size: 20px;
+}
+canvas{
+	border: solid 5px black;
+}
+
+#craftList{
+	display: flex; 
+	flex-direction: column;
+	font-size: 15px;
+	line-height: 15px;
+	
+}
+.craftListItem{
+	display: flex;
+	width: max-content;
+}
